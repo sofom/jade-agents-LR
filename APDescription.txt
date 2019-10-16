@@ -1,0 +1,1 @@
+( ap-description  :name "bookTrading" :ap-services (set ( ap-service  :name fipa.mts.mtp.http.std :type fipa.mts.mtp.http.std :addresses (sequence http://DESKTOP-579KE5B:7778/acc))))
